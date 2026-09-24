@@ -20,5 +20,5 @@ def delete_file(file_name, name):
         json.dump(data, file, indent=4)
 
 def empty_file(file_name):
-    data = None
+    data = {}
     save_file(file_name, data)
