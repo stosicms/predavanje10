@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Milos Stosic",
+        "age": 42,
+        "height": 185,
+        "gender": "male"
+    },
+    {
+        "name": "Ivana Stamenkovic",
+        "age": 35,
+        "height": 175,
+        "gender": "female"
+    },
+    {
+        "name": "Marija Jovanovic",
+        "age": 25,
+        "height": 168,
+        "gender": "female"
+    },
+    {
+        "name": "Marko Markovic",
+        "age": 22,
+        "height": 178,
+        "gender": "male"
+    },
+    {
+        "name": "Ivana Stamenkovic",
+        "age": 35,
+        "height": 175,
+        "gender": "female"
+    },
+    {
+        "name": "Jelena Mitrovic",
+        "age": 38,
+        "height": 178,
+        "gender": "female"
+    }
+]
