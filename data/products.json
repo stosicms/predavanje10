@@ -1,0 +1,28 @@
+
+[
+  {
+    "name" : "upaljac",
+    "price" : 150,
+    "amount" : 200
+  },
+  {
+    "name" : "olovka",
+    "price" : 200,
+    "amount" : 100
+  },
+  {
+    "name" : "gumica",
+    "price" : 70,
+    "amount" : 75
+  },
+  {
+    "name" : "cigarete",
+    "price" : 400,
+    "amount" : 80
+  },
+  {
+    "name" : "zvake",
+    "price" : 100,
+    "amount" : 38
+  }
+]
